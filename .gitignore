@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#file nascosti che crea il  MAC
+*.DS_Store
+
+
+#prove francesco da non committare:
+Prove-fnopi-FRA.ipynb
