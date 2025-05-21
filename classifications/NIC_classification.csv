@@ -1,566 +1,566 @@
-	Descrizione	codice
-354	Promozione della meccanica corporea	0140
-204	Gestione dell’energia	0180
-44	Promozione dell’attività fisica	0200
-45	Promozione dell’attività fisica: allenamento alla resistenza	0201
-46	Promozione dell’attività fisica: stretching	0202
-216	Esercizio fisico terapeutico: deambulazione	0221
-217	Esercizio fisico terapeutico: equilibrio	0222
-218	Esercizio fisico terapeutico: mobilità articolare	0224
-215	Esercizio fisico terapeutico: controllo muscolare	0226
-274	Assistenza alla persona: incontinenza fecale	0410
-272	Assistenza al bambino con incontinenza fecale: encopresi	0412
-317	Sostegno nella gestione della funzione intestinale	0430
-318	Training intestinale	0440
-499	Gestione della stipsi/fecaloma	0450
-153	Gestione della diarrea	0460
-205	Somministrazione di un enteroclisma	0466
-257	Riduzione della flatulenza	0470
-500	Assistenza alla persona: stomia	0480
-422	Gestione del prolasso rettale	0490
-335	Irrigazione vescicale	0550
-214	Esercizi muscolari pelvici	0560
-555	Rieducazione vescicale	0570
-553	Cateterismo vescicale	0580
-554	Cateterismo vescicale intermittente	0582
-186	Gestione dell’eliminazione urinaria	0590
-173	Educazione a corrette abitudini urinarie	0600
-275	Assistenza alla persona: incontinenza urinaria	0610
-273	Assistenza al bambino con incontinenza urinaria: enuresi	0612
-448	Assistenza alla persona: ritenzione urinaria	0620
-394	Gestione del pessario	0630
-359	Stimolazione della minzione	0640
-388	Assistenza alla persona allettata	0740
-31	Assistenza alla persona: mantenimento dell’apparecchio gessato	0762
-30	Assistenza alla persona: asciugatura dell’apparecchio gessato	0764
-401	Posizionamento	0840
-403	Posizionamento intraoperatorio	0842
-404	Posizionamento neurologico	0844
-402	Posizionamento: sedia a rotelle	0846
-496	Applicazione di splint	0910
-537	Assistenza alla persona: trazione e immobilizzazione	0940
-529	Trasferimento	0970
-154	Stadiazione di una dieta	1020
-155	Stadiazione di una dieta: perdita di peso chirurgica	1024
-161	Gestione dei disturbi del comportamento alimentare	1030
-8	Alimentazione	1050
-9	Alimentazione con biberon	1052
-374	Nutrizione per sonda	1056
-321	Intubazione gastrointestinale	1080
-373	Gestione della nutrizione	1100
-516	Terapia nutrizionale	1120
-366	Monitoraggio nutrizionale	1160
-375	Nutrizione parenterale totale	1200
-391	Assistenza alla persona: aumento del peso corporeo	1240
-393	Gestione del peso corporeo	1260
-392	Assistenza alla persona: riduzione del peso corporeo	1280
-156	Digitopressione	1320
-36	Aromaterapia	1330
-497	Stimolazione cutanea	1340
-461	Prevenzione della secchezza oculare	1350
-61	Applicazione di calore e di freddo	1380
-525	Tocco che guarisce	1390
-164	Gestione del dolore: acuto	1410
-165	Gestione del dolore: cronico	1415
-472	Gestione della sindrome premestruale	1440
-371	Gestione della nausea	1450
-439	Rilassamento muscolare progressivo	1460
-353	Massaggio	1480
-426	Reiki	1520
-498	Stimolazione elettrica percutanea di un nervo (TENS)	1540
-564	Gestione del vomito	1570
-53	Bagno	1610
-340	Cura delle lenti a contatto	1620
-556	Aiuto nel vestirsi/spogliarsi	1630
-378	Assistenza alla persona: orecchio	1640
-377	Assistenza alla persona: occhi	1650
-399	Assistenza alla persona: piedi	1660
-63	Miglioramento delle capacità funzionali	1665
-64	Cura dei capelli e del cuoio capelluto	1670
-544	Assistenza alla persona: unghie	1680
-75	Mantenimento della salute del cavo orale	1710
-76	Promozione della salute del cavo orale	1720
-77	Ripristino della salute del cavo orale	1730
-135	Cura perineale	1750
-452	Cura della salma	1770
-128	Assistenza nella cura di sé	1800
-131	Assistenza nella cura di sé: bagno/igiene personale	1801
-134	Assistenza nella cura di sé: vestirsi, cura dell’aspetto	1802
-129	Assistenza nella cura di sé: alimentazione	1803
-133	Assistenza nella cura di sé: uso del gabinetto	1804
-130	Assistenza nella cura di sé: attività strumentali di vita quotidiana	1805
-132	Assistenza nella cura di sé: trasferimenti	1806
-477	Miglioramento del sonno	1850
-145	Trattamento della deglutizione	1860
-167	Assistenza alla persona: drenaggio	1870
-169	Assistenza alla persona: drenaggio toracico	1872
-168	Assistenza alla persona: drenaggio gastrointestinale	1874
-73	Assistenza al neonato: catetere ombelicale	1875
-170	Assistenza alla persona: drenaggio urinario	1876
-171	lombare	1878
-207	Gestione dell’equilibrio acido-base	1910
-208	Gestione dell’equilibrio acido-base: acidosi metabolica	1911
-210	Gestione dell’equilibrio acido-base: alcalosi metabolica	1912
-209	Gestione dell’equilibrio acido-base: acidosi respiratoria	1913
-211	Gestione dell’equilibrio acido-base: alcalosi respiratoria	1914
-206	Monitoraggio dell’equilibrio acido-base	1920
-174	Gestione degli elettroliti	2000
-175	Gestione degli elettroliti: ipercalcemia	2001
-179	Gestione degli elettroliti: iperpotassiemia	2002
-177	Gestione degli elettroliti: ipermagnesemia	2003
-178	Gestione degli elettroliti: ipernatremia	2004
-176	Gestione degli elettroliti: iperfosfatemia	2005
-180	Gestione degli elettroliti: ipocalcemia	2006
-184	Gestione degli elettroliti: ipopotassiemia	2007
-182	Gestione degli elettroliti: ipomagnesemia	2008
-183	Gestione degli elettroliti: iponatremia	2009
-181	Gestione degli elettroliti: ipofosfatemia	2010
-185	Monitoraggio degli elettroliti	2020
-345	Gestione dei liquidi e degli elettroliti	2080
-193	Emodialisi	2100
-195	Emofiltrazione	2110
-322	Gestione dell’iperglicemia	2120
-323	Gestione dell’iperlipidemia	2125
-329	Gestione dell’ipoglicemia	2130
-152	Dialisi peritoneale	2150
-25	Somministrazione di analgesici	2210
-26	Somministrazione di analgesici: via intraspinale	2214
-81	Gestione della chemioterapia	2240
-462	Gestione della sedazione	2260
-517	Terapia ormonale sostitutiva	2280
-230	Somministrazione di farmaci	2300
-236	Somministrazione di farmaci: via enterale	2301
-240	Somministrazione di farmaci: via intrapleurica	2302
-239	Somministrazione di farmaci: via intraossea	2303
-244	Somministrazione di farmaci: via orale	2304
-231	Somministrazione di farmaci: cavità ventricolare	2307
-233	Somministrazione di farmaci: via auricolare	2308
-243	Somministrazione di farmaci: via oculare	2310
-232	Somministrazione di farmaci: inalazione	2311
-237	Somministrazione di farmaci: via intradermica	2312
-238	Somministrazione di farmaci: via intramuscolare	2313
-235	Somministrazione di farmaci: via endovenosa	2314
-245	Somministrazione di farmaci: via rettale	2315
-234	Somministrazione di farmaci: via cutanea	2316
-246	Somministrazione di farmaci: via sottocutanea	2317
-247	Somministrazione di farmaci: via vaginale	2318
-241	Somministrazione di farmaci: via intraspinale	2319
-242	Somministrazione di farmaci: via nasale	2320
-228	Gestione dei farmaci	2380
-229	Prescrizione di farmaci	2390
-437	Riconciliazione della terapia farmacologica	2395
-24	Assistenza alla persona: analgesia controllata dall’assistito(PCA)	2400
-256	Fitoterapia	2420
-79	Gestione dell’edema cerebrale	2540
-80	Promozione della perfusione cerebrale	2550
-159	Gestione della disriflessia	2560
-512	Gestione della terapia elettroconvulsivante	2570
-417	Monitoraggio della pressione endocranica	2590
-367	Monitoraggio neurologico	2620
-464	Gestione della sensibilità periferica	2660
-126	Gestione delle crisi convulsive	2680
-127	Precauzioni per le crisi convulsive	2690
-197	Misure preventive dell’emorragia subaracnoidea	2720
-192	Gestione dell’eminegligenza	2760
-27	Somministrazione dell’anestesia	2840
-52	Autotrasfusione	2860
-336	Gestione del laccio emostatico	2865
-405	Assistenza alla persona: postanestesia	2870
-116	Coordinamento preoperatorio	2880
-315	Assistenza durante l’intervento chirurgico	2900
-501	Gestione degli strumenti chirurgici	2910
-316	Misure preventive durante l’intervento chirurgico	2920
-314	Preparazione all’intervento chirurgico	2930
-86	Assistenza alla persona: circoncisione	3000
-559	Vie aeree: intubazione	3120
-558	Vie aeree: gestione	3140
-557	Vie aeree: aspirazione	3160
-560	Vie aeree artificiali: gestione	3180
-40	Misure preventive dell’aspirazione	3200
-39	Gestione dell’asma	3210
-255	Fisioterapia respiratoria	3230
-527	Stimolazione della tosse	3250
-219	Estubazione endotracheale	3270
-549	Gestione della ventilazione meccanica: invasiva	3300
-550	Gestione della ventilazione meccanica: non invasiva	3302
-551	Gestione della ventilazione meccanica: prevenzione della polmonite	3304
-548	Svezzamento dal ventilatore meccanico	3310
-334	Irrigazione nasale	3316
-380	Ossigenoterapia	3320
-368	Monitoraggio respiratorio	3350
-430	Promozione della respirazione	3390
-22	Assistenza alla persona: amputazione	3420
-474	Cura del sito di incisione	3440
-521	Terapia con sanguisughe	3460
-361	Monitoraggio degli arti inferiori	3480
-341	Cura delle lesioni da pressione	3520
-342	Prevenzione delle lesioni da pressione	3540
-423	Gestione del prurito	3550
-137	Cura della cute: sito donatore	3582
-136	Cura della cute: sito di innesto	3583
-138	Cura della cute: trattamenti topici	3584
-139	Sorveglianza della cute	3590
-503	Sutura	3620
-249	Cura della ferita	3660
-252	Cura della ferita: ustioni	3661
-251	Cura della ferita: drenaggio chiuso	3662
-250	Cura della ferita: difficoltà di guarigione	3664
-253	Irrigazione della ferita	3680
-248	Trattamento della febbre	3740
-325	Trattamento dell’ipertermia	3786
-331	Induzione dell’ipotermia terapeutica	3790
-332	Trattamento dell’ipotermia	3800
-326	Precauzioni nei confronti dell’ipertermia maligna	3840
-510	Regolazione della temperatura	3900
-511	Regolazione della temperatura intraoperatoria	3902
-196	Misure preventive dell’emorragia	4010
-198	Riduzione dell’emorragia	4020
-202	Riduzione dell’emorragia uterina: antepartum	4021
-199	Riduzione dell’emorragia gastrointestinale	4022
-201	Riduzione dell’emorragia nasale	4024
-203	Riduzione dell’emorragia uterina: postpartum	4026
-200	Riduzione dell’emorragia: ferita	4028
-457	Infusione di sangue o derivati	4030
-408	Prelievo: campione di sangue capillare	4035
-65	Assistenza cardiaca	4040
-66	Assistenza cardiaca: fase acuta	4044
-67	Assistenza cardiaca: riabilitazione	4046
-445	Gestione del rischio cardiaco	4050
-6	Gestione del dispositivo di accesso venoso centrale	4054
-83	Assistenza circolatoria: insufficienza arteriosa	4062
-82	Assistenza circolatoria: dispositivi meccanici	4064
-84	Assistenza circolatoria: insufficienza venosa	4066
-85	Misure preventive circolatorie	4070
-35	Gestione dell’aritmia	4090
-381	Gestione del pacemaker permanente	4091
-382	Gestione del pacemaker temporaneo	4092
-143	Gestione del defibrillatore esterno	4095
-144	Gestione del defibrillatore interno (permanente)	4096
-189	Assistenza alla persona: embolia periferica	4104
-190	Assistenza alla persona: embolia polmonare	4106
-188	Misure preventive: embolia	4110
-344	Gestione dei liquidi	4120
-346	Monitoraggio dei liquidi	4130
-433	Rianimazione con liquidi endovena	4140
-194	Regolazione emodinamica	4150
-324	Gestione dell’ipertensione	4162
-327	Gestione dell’ipervolemia	4170
-330	Gestione dell’ipotensione	4175
-333	Gestione dell’ipovolemia	4180
-270	Incannulazione venosa	4190
-514	Terapia endovenosa	4200
-365	Monitoraggio emodinamico invasivo	4210
-74	Assistenza alla persona: catetere venoso centrale (PIC)	4220
-407	Prelievo: campione di sangue arterioso	4232
-411	Prelievo di una unità di sangue	4234
-410	Prelievo: vaso incannulato	4235
-409	Prelievo: campione di sangue venoso	4238
-5	Mantenimento dell’accesso dialitico	4240
-466	Gestione dello shock	4250
-467	Gestione dello shock cardiaco	4254
-469	Gestione dello shock vasovagale	4256
-468	Gestione dello shock ipovolemico	4258
-470	Prevenzione dello shock	4260
-78	Infusione di cellule staminali	4266
-523	Gestione della terapia trombolitica	4270
-47	Attività terapeutiche	4310
-395	Pet-therapy	4320
-37	Arteterapia	4330
-41	Educazione all’assertività	4340
-93	Sostegno nella gestione del comportamento	4350
-95	Sostegno nella gestione del comportamento: iperattività/disattenzione	4352
-94	Sostegno nella gestione del comportamento:autolesionismo	4354
-98	Sostegno nella gestione del comportamento sessuale	4356
-96	Sostegno nella modifica del comportamento	4360
-97	Sostegno nella modifica del comportamento: abilità sociali	4362
-187	Elogio	4364
-140	Danzaterapia	4367
-269	Allenamento al controllo degli impulsi	4370
-343	Limiti comportamentali	4380
-513	Terapia per mezzo dell’ambiente	4390
-370	Musicoterapia	4400
-376	Condivisione di obiettivi	4410
-115	Contratto con l’assistito	4420
-347	Ludoterapia	4430
-360	Assistenza alla persona: modifica di sé	4470
-50	Facilitazione dell’autoresponsabilità	4480
-262	Assistenza nella cessazione dell’abitudine al fumo	4490
-483	Prevenzione dell’uso di sostanze	4500
-484	Trattamento dell’uso di sostanze	4510
-485	Trattamento dell’uso di sostanze: astinenza dall’alcol	4512
-486	Trattamento dell’uso di sostanze: astinenza dalla droga	4514
-487	Trattamento dell’uso di sostanze: overdose	4516
-91	Sostegno nel controllo della collera	4640
-57	Biblioterapia	4680
-88	Ristrutturazione cognitiva	4700
-89	Stimolazione cognitiva	4720
-460	Scrittura autobiografica	4740
-358	Allenamento della memoria	4760
-379	Orientamento alla realtà	4820
-518	Terapia della reminiscenza	4860
-38	Ascolto attivo	4920
-99	Miglioramento della comunicazione: deficit dell’udito	4974
-101	Miglioramento della comunicazione: disturbi del linguaggio	4976
-100	Miglioramento della comunicazione: deficit della vista	4978
-427	Costruzione di relazioni complesse	5000
-105	Mediazione in caso di conflitto	5020
-476	Miglioramento della socializzazione	5100
-475	Guida preventiva alle situazioni critiche	5210
-268	Valorizzazione dell’immagine corporea	5220
-117	Miglioramento del coping	5230
-119	Counseling	5240
-121	Counseling genetico	5242
-120	Counseling sull’allattamento	5244
-122	Counseling nutrizionale	5246
-123	Counseling preconcezionale	5247
-124	Counseling sessuale	5248
-420	Sostegno al processo decisionale	5250
-369	Assistenza alla persona morente	5260
-490	Sostegno emozionale	5270
-387	Facilitazione del perdono	5280
-348	Facilitazione dell’elaborazione del lutto	5290
-349	Facilitazione dell’elaborazione del lutto: morte perinatale	5294
-465	Elaborazione del senso di colpa	5300
-456	Sviluppo del potenziale di salute	5305
-493	Ispirare speranza	5310
-265	Humour	5320
-92	Miglioramento delle competenze di vita	5326
-562	Visite di ascolto	5328
-543	Gestione dell’umore	5330
-415	Presenza	5340
-532	Riduzione dello stress da trasferimento	5350
-519	Terapia ricreativa	5360
-450	Potenziamento del ruolo	5370
-106	Potenziamento della consapevolezza di sé	5390
-48	Miglioramento dell’autoefficacia	5395
-51	Miglioramento dell’autostima	5400
-522	Terapia del trauma: bambino	5410
-495	Sostegno spirituale	5420
-428	Prevenzione della dipendenza da una religione	5422
-449	Facilitazione della partecipazione ai riti religiosi	5424
-494	Facilitazione della crescita spirituale	5426
-488	Gruppo di sostegno	5430
-489	Potenziamento dei sistemi di sostegno	5440
-515	Terapia di gruppo	5450
-111	Contatto fisico	5460
-526	Tocco terapeutico	5465
-552	Comunicazione della verità	5470
-547	Chiarificazione dei valori	5480
-453	Educazione alla salute	5510
-454	Miglioramento dell’alfabetizzazione sulla salute	5515
-32	Facilitazione dell’apprendimento	5520
-33	Stimolare la disponibilità all’apprendimento	5540
-281	Insegnamento: adolescente	5562
-285	Insegnamento: famiglia che cresce un bambino	5566
-283	Insegnamento: bambino nel primo anno di vita	5568
-279	Informazioni sensoriali preparatorie	5580
-299	Insegnamento: processo patologico specifico	5602
-284	Insegnamento: cura dei piedi	5603
-288	Insegnamento: gruppo	5604
-289	Insegnamento: individuale	5606
-297	Insegnamento: periodo preoperatorio	5610
-282	Insegnamento: attività fisica prescritta	5612
-286	Insegnamento: dieta prescritta	5614
-287	Insegnamento: farmaci prescritti	5616
-298	Insegnamento: procedure/trattamenti	5618
-280	Insegnamento: abilità psicomotorie	5620
-300	Insegnamento: sesso sicuro	5622
-301	Insegnamento: sessualità	5624
-312	Insegnamento: uso del gabinetto	5634
-290	Insegnamento: nutrizione del bambino da 0 a 3 mesi di vita	5640
-291	Insegnamento: nutrizione del bambino da 4 a 6 mesi di vita	5641
-292	Insegnamento: nutrizione del bambino da 7 a 9 mesi di vita	5642
-293	Insegnamento: nutrizione del bambino da 10 a 12 mesi di vita	5643
-302	Insegnamento: sicurezza del bambino da 0 a 3 mesi di vita	5645
-303	Insegnamento: sicurezza del bambino da 4 a 6 mesi di vita	5646
-304	Insegnamento: sicurezza del bambino da 7 a 9 mesi di vita	5647
-305	Insegnamento: sicurezza del bambino da 10 a 12 mesi di vita	5648
-309	Insegnamento: stimolazione del bambino da 0 a 4 mesi di vita	5655
-310	Insegnamento: stimolazione del bambino da 5 a 8 mesi di vita	5656
-311	Insegnamento: stimolazione del bambino da 9 a 12 mesi di vita	5657
-294	Insegnamento: nutrizione del bambino da 13 a 18 mesi di vita	5660
-295	Insegnamento: nutrizione del bambino da 19 a 24 mesi di vita	5661
-296	Insegnamento: nutrizione del bambino da 25 a 36 mesi di vita	5662
-306	Insegnamento: sicurezza del bambino da 13 a 18 mesi di vita	5665
-307	Insegnamento: sicurezza del bambino da 19 a 24 mesi di vita	5666
-308	Insegnamento: sicurezza del bambino da 25 a 36 mesi di vita	5667
-28	Riduzione dell’ansia	5820
-528	Training autogeno	5840
-58	Biofeedback	5860
-508	Tecnica calmante	5880
-160	Distrazione	5900
-328	Ipnosi	5920
-49	Facilitazione dell’autoipnosi	5922
-357	Facilitazione della meditazione	5960
-563	Visualizzazione guidata	6000
-520	Terapia di rilassamento	6040
-87	Gestione dei codici di gravità	6140
-125	Intervento in caso di crisi	6160
-191	Gestione dell’emergenza	6200
-418	Primo soccorso	6240
-166	Promozione della donazione di organi	6260
-533	Trattamento del trauma da stupro	6300
-432	Rianimazione	6320
-502	Prevenzione del suicidio	6340
-539	Triage: luogo del disastro	6362
-538	Triage: centro emergenze	6364
-540	Triage telefonico	6366
-0	Sostegno nella protezione dagli abusi	6400
-1	Sostegno nella protezione dagli abusi: bambino	6402
-3	Sostegno nella protezione dagli abusi: persona convivente	6403
-2	Sostegno nella protezione dagli abusi: persona anziana	6404
-4	Sostegno nella protezione dagli abusi di tipo religioso	6408
-11	Gestione dell’allergia	6410
-23	Gestione dell’anafilassi	6412
-492	Restrizione degli spazi	6420
-113	Contenzione farmacologica	6430
-147	Gestione del delirio	6440
-267	Gestione delle illusioni	6450
-148	Gestione della demenza	6460
-149	Gestione della demenza: bagno	6462
-150	Gestione della demenza: wandering	6466
-12	Gestione del rischio di allontanamento non autorizzato	6470
-14	Gestione dell’ambiente	6480
-15	Gestione dell’ambiente: benessere	6482
-16	Gestione dell’ambiente: comunità	6484
-17	Gestione dell’ambiente: organizzazione della casa	6485
-19	Gestione dell’ambiente: sicurezza	6486
-18	Gestione dell’ambiente: prevenzione della violenza	6487
-20	Gestione dell’ambiente: sicurezza dei lavoratori	6489
-60	Prevenzione delle cadute	6490
-29	Misure antincendio	6500
-13	Gestione delle allucinazioni	6510
-458	Screening	6520
-463	Esame del seno	6522
-546	Gestione delle vaccinazioni	6530
-276	Controllo delle infezioni	6540
-277	Controllo delle infezioni: fase intraoperatoria	6545
-278	Protezione dalle infezioni	6550
-337	Precauzioni d’uso per il laser	6560
-339	Precauzioni d’uso per il lattice	6570
-266	Identificazione della persona assistita	6574
-114	Contenzione fisica	6580
-425	Gestione della radioterapia	6600
-441	Identificazione dei rischi	6610
-442	Identificazione dei rischi: famiglia che attende un bambino	6612
-443	Identificazione dei rischi genetici	6614
-112	Contenzione ambientale	6630
-534	Prevenzione dei traumi sportivi nei giovani	6648
-478	Sorveglianza	6650
-479	Sorveglianza: comunità	6652
-480	Sorveglianza: gravidanza post termine	6656
-481	Sorveglianza: teleassistenza	6658
-524	Terapia di validazione	6670
-459	Screening della vista	6675
-362	Monitoraggio dei parametri vitali	6680
-21	Amnioinfusione	6700
-43	Promozione dell’attaccamento genitore-bambino	6710
-384	Assistenza al parto	6720
-385	Assistenza al parto cesareo	6750
-383	Preparazione al parto	6760
-363	Monitoraggio elettronico fetale antepartum	6771
-364	Monitoraggio elettronico fetale intrapartum	6772
-396	Pianificazione familiare: contraccezione	6784
-398	Pianificazione familiare: infertilità	6786
-397	Pianificazione familiare: gravidanza non pianificata	6788
-264	Assistenza nella gravidanza ad alto rischio	6800
-56	Assistenza al bambino nel primo anno di vita	6820
-54	Assistenza al bambino: neonato	6824
-55	Assistenza al bambino: neonato pretermine	6826
-319	Assistenza intrapartum	6830
-320	Assistenza intrapartum: parto ad alto rischio	6834
-352	Marsupioterapia	6840
-535	Induzione del travaglio	6850
-536	Soppressione del travaglio	6860
-338	Soppressione della lattazione	6870
-504	Suzione non nutritiva	6900
-259	Fototerapia: neonato	6924
-260	Fototerapia: regolazione dell’umore e del sonno	6926
-406	Assistenza alla persona: postpartum e puerperio	6930
-313	Assistenza alla persona: interruzione di gravidanza	6950
-263	Assistenza alla persona: gravidanza	6960
-419	Sostegno durante le procedure: bambino	6965
-434	Rianimazione: feto	6972
-435	Rianimazione: neonato	6974
-172	Ecografia ostetrica	6982
-68	Sostegno al caregiver	7040
-222	Promozione dell’integrità della famiglia	7100
-223	Promozione dell’integrità della famiglia che attende un bambino	7104
-221	Promozione del coinvolgimento della famiglia	7110
-220	Mobilitazione della famiglia	7120
-227	Mantenimento dei processi familiari	7130
-224	Sostegno della famiglia	7140
-225	Terapia alla famiglia	7150
-254	Mantenimento della fertilità	7160
-226	Facilitazione della presenza dei familiari	7170
-71	Sostegno nel mantenimento della casa	7180
-372	Promozione della normalità	7200
-69	Sostituzione temporanea del caregiver	7260
-261	Sostegno del fratello/sorella	7280
-7	Accoglienza in una struttura sanitaria o sociale	7310
-72	Case management	7320
-355	Mediazione culturale	7330
-157	Pianificazione della dimissione	7370
-447	Sostegno in relazione alle risorse economiche	7380
-473	Guida al sistema sanitario	7400
-42	Assicurazione: assistenza per ottenere un rimborso	7410
-545	Facilitazione delle uscite	7440
-158	Tutela dei diritti della persona assistita	7460
-491	Supporto per il sostentamento	7500
-561	Facilitazione delle visite	7560
-213	Esami di laboratorio nel luogo di erogazione dell’assistenza	7610
-90	Miglioramento della collaborazione	7615
-482	Controllo delle sostanze sottoposte a vigilanza	7620
-118	Contenimento dei costi	7630
-386	Sviluppo del percorso clinico/critico	7640
-146	Delega	7650
-70	Controllo del carrello dell’emergenza	7660
-212	Assistenza nel corso di esami diagnostici	7680
-141	Interpretazione dei dati di laboratorio	7690
-431	Revisione tra pari	7700
-356	Collaborazione con il medico	7710
-541	Tutorato: personale dipendente	7722
-542	Tutorato: studenti	7726
-416	Valutazione dei presidi	7760
-424	Monitoraggio della qualità	7800
-62	Gestione dei campioni di laboratorio	7820
-389	Supervisione del personale	7830
-34	Gestione degli approvvigionamenti	7840
-390	Sviluppo del personale	7850
-509	Gestione della tecnologia	7880
-440	Gestione delle tecnologie per la riproduzione assistita	7886
-530	Trasferimento a un’altra struttura	7890
-531	Trasferimento all’interno della struttura	7892
-108	Consulenza	7910
-162	Documentazione	7920
-163	Documentazione: riunioni	7926
-151	Deposizione/testimonianza	7930
-142	Raccolta di dati forensi	7940
-455	Scambio di informazioni relative alla salute	7960
-400	Monitoraggio della politica sanitaria	7970
-271	Incident reporting – report su un evento avverso	7980
-109	Consulenza assistenziale multidisciplinare	8020
-414	Trascrizione delle prescrizioni	8060
-412	Prescrizione: test diagnostico	8080
-413	Prescrizione: trattamento non farmacologico	8086
-438	Riferimento ad altri provider o servizi	8100
-436	Raccolta dati ai fini di ricerca	8120
-107	Passaggio di consegne	8140
-110	Consulenza telefonica	8180
-258	Follow up telefonico	8190
-10	Alimentazione con tazza: neonato	8240
-507	Miglioramento dello sviluppo: adolescente	8272
-506	Miglioramento dello sviluppo: bambino	8274
-505	Miglioramento dello sviluppo: bambino nel primo anno di vita	8278
-451	Promozione del ruolo genitoriale	8300
-429	Promozione della resilienza	8340
-104	Sviluppo della salute della comunità	8500
-102	Patrocinio della salute della comunità	8510
-446	Gestione delle risorse economiche	8550
-421	Sviluppo di programmi	8700
-351	Marketing sociale	8750
-59	Addestramento contro il bioterrorismo	8810
-350	Gestione delle malattie trasmissibili	8820
-103	Addestramento della comunità alle calamità	8840
-444	Protezione dai rischi ambientali	8880
-471	Promozione della sicurezza nell’uso di veicoli	9050
+Descrizione	codice
+Promozione della meccanica corporea	0140
+Gestione dell’energia	0180
+Promozione dell’attività fisica	0200
+Promozione dell’attività fisica: allenamento alla resistenza	0201
+Promozione dell’attività fisica: stretching	0202
+Esercizio fisico terapeutico: deambulazione	0221
+Esercizio fisico terapeutico: equilibrio	0222
+Esercizio fisico terapeutico: mobilità articolare	0224
+Esercizio fisico terapeutico: controllo muscolare	0226
+Assistenza alla persona: incontinenza fecale	0410
+Assistenza al bambino con incontinenza fecale: encopresi	0412
+Sostegno nella gestione della funzione intestinale	0430
+Training intestinale	0440
+Gestione della stipsi/fecaloma	0450
+Gestione della diarrea	0460
+Somministrazione di un enteroclisma	0466
+Riduzione della flatulenza	0470
+Assistenza alla persona: stomia	0480
+Gestione del prolasso rettale	0490
+Irrigazione vescicale	0550
+Esercizi muscolari pelvici	0560
+Rieducazione vescicale	0570
+Cateterismo vescicale	0580
+Cateterismo vescicale intermittente	0582
+Gestione dell’eliminazione urinaria	0590
+Educazione a corrette abitudini urinarie	0600
+Assistenza alla persona: incontinenza urinaria	0610
+Assistenza al bambino con incontinenza urinaria: enuresi	0612
+Assistenza alla persona: ritenzione urinaria	0620
+Gestione del pessario	0630
+Stimolazione della minzione	0640
+Assistenza alla persona allettata	0740
+Assistenza alla persona: mantenimento dell’apparecchio gessato	0762
+Assistenza alla persona: asciugatura dell’apparecchio gessato	0764
+Posizionamento	0840
+Posizionamento intraoperatorio	0842
+Posizionamento neurologico	0844
+Posizionamento: sedia a rotelle	0846
+Applicazione di splint	0910
+Assistenza alla persona: trazione e immobilizzazione	0940
+Trasferimento	0970
+Stadiazione di una dieta	1020
+Stadiazione di una dieta: perdita di peso chirurgica	1024
+Gestione dei disturbi del comportamento alimentare	1030
+Alimentazione	1050
+Alimentazione con biberon	1052
+Nutrizione per sonda	1056
+Intubazione gastrointestinale	1080
+Gestione della nutrizione	1100
+Terapia nutrizionale	1120
+Monitoraggio nutrizionale	1160
+Nutrizione parenterale totale	1200
+Assistenza alla persona: aumento del peso corporeo	1240
+Gestione del peso corporeo	1260
+Assistenza alla persona: riduzione del peso corporeo	1280
+Digitopressione	1320
+Aromaterapia	1330
+Stimolazione cutanea	1340
+Prevenzione della secchezza oculare	1350
+Applicazione di calore e di freddo	1380
+Tocco che guarisce	1390
+Gestione del dolore: acuto	1410
+Gestione del dolore: cronico	1415
+Gestione della sindrome premestruale	1440
+Gestione della nausea	1450
+Rilassamento muscolare progressivo	1460
+Massaggio	1480
+Reiki	1520
+Stimolazione elettrica percutanea di un nervo (TENS)	1540
+Gestione del vomito	1570
+Bagno	1610
+Cura delle lenti a contatto	1620
+Aiuto nel vestirsi/spogliarsi	1630
+Assistenza alla persona: orecchio	1640
+Assistenza alla persona: occhi	1650
+Assistenza alla persona: piedi	1660
+Miglioramento delle capacità funzionali	1665
+Cura dei capelli e del cuoio capelluto	1670
+Assistenza alla persona: unghie	1680
+Mantenimento della salute del cavo orale	1710
+Promozione della salute del cavo orale	1720
+Ripristino della salute del cavo orale	1730
+Cura perineale	1750
+Cura della salma	1770
+Assistenza nella cura di sé	1800
+Assistenza nella cura di sé: bagno/igiene personale	1801
+Assistenza nella cura di sé: vestirsi, cura dell’aspetto	1802
+Assistenza nella cura di sé: alimentazione	1803
+Assistenza nella cura di sé: uso del gabinetto	1804
+Assistenza nella cura di sé: attività strumentali di vita quotidiana	1805
+Assistenza nella cura di sé: trasferimenti	1806
+Miglioramento del sonno	1850
+Trattamento della deglutizione	1860
+Assistenza alla persona: drenaggio	1870
+Assistenza alla persona: drenaggio toracico	1872
+Assistenza alla persona: drenaggio gastrointestinale	1874
+Assistenza al neonato: catetere ombelicale	1875
+Assistenza alla persona: drenaggio urinario	1876
+lombare	1878
+Gestione dell’equilibrio acido-base	1910
+Gestione dell’equilibrio acido-base: acidosi metabolica	1911
+Gestione dell’equilibrio acido-base: alcalosi metabolica	1912
+Gestione dell’equilibrio acido-base: acidosi respiratoria	1913
+Gestione dell’equilibrio acido-base: alcalosi respiratoria	1914
+Monitoraggio dell’equilibrio acido-base	1920
+Gestione degli elettroliti	2000
+Gestione degli elettroliti: ipercalcemia	2001
+Gestione degli elettroliti: iperpotassiemia	2002
+Gestione degli elettroliti: ipermagnesemia	2003
+Gestione degli elettroliti: ipernatremia	2004
+Gestione degli elettroliti: iperfosfatemia	2005
+Gestione degli elettroliti: ipocalcemia	2006
+Gestione degli elettroliti: ipopotassiemia	2007
+Gestione degli elettroliti: ipomagnesemia	2008
+Gestione degli elettroliti: iponatremia	2009
+Gestione degli elettroliti: ipofosfatemia	2010
+Monitoraggio degli elettroliti	2020
+Gestione dei liquidi e degli elettroliti	2080
+Emodialisi	2100
+Emofiltrazione	2110
+Gestione dell’iperglicemia	2120
+Gestione dell’iperlipidemia	2125
+Gestione dell’ipoglicemia	2130
+Dialisi peritoneale	2150
+Somministrazione di analgesici	2210
+Somministrazione di analgesici: via intraspinale	2214
+Gestione della chemioterapia	2240
+Gestione della sedazione	2260
+Terapia ormonale sostitutiva	2280
+Somministrazione di farmaci	2300
+Somministrazione di farmaci: via enterale	2301
+Somministrazione di farmaci: via intrapleurica	2302
+Somministrazione di farmaci: via intraossea	2303
+Somministrazione di farmaci: via orale	2304
+Somministrazione di farmaci: cavità ventricolare	2307
+Somministrazione di farmaci: via auricolare	2308
+Somministrazione di farmaci: via oculare	2310
+Somministrazione di farmaci: inalazione	2311
+Somministrazione di farmaci: via intradermica	2312
+Somministrazione di farmaci: via intramuscolare	2313
+Somministrazione di farmaci: via endovenosa	2314
+Somministrazione di farmaci: via rettale	2315
+Somministrazione di farmaci: via cutanea	2316
+Somministrazione di farmaci: via sottocutanea	2317
+Somministrazione di farmaci: via vaginale	2318
+Somministrazione di farmaci: via intraspinale	2319
+Somministrazione di farmaci: via nasale	2320
+Gestione dei farmaci	2380
+Prescrizione di farmaci	2390
+Riconciliazione della terapia farmacologica	2395
+Assistenza alla persona: analgesia controllata dall’assistito(PCA)	2400
+Fitoterapia	2420
+Gestione dell’edema cerebrale	2540
+Promozione della perfusione cerebrale	2550
+Gestione della disriflessia	2560
+Gestione della terapia elettroconvulsivante	2570
+Monitoraggio della pressione endocranica	2590
+Monitoraggio neurologico	2620
+Gestione della sensibilità periferica	2660
+Gestione delle crisi convulsive	2680
+Precauzioni per le crisi convulsive	2690
+Misure preventive dell’emorragia subaracnoidea	2720
+Gestione dell’eminegligenza	2760
+Somministrazione dell’anestesia	2840
+Autotrasfusione	2860
+Gestione del laccio emostatico	2865
+Assistenza alla persona: postanestesia	2870
+Coordinamento preoperatorio	2880
+Assistenza durante l’intervento chirurgico	2900
+Gestione degli strumenti chirurgici	2910
+Misure preventive durante l’intervento chirurgico	2920
+Preparazione all’intervento chirurgico	2930
+Assistenza alla persona: circoncisione	3000
+Vie aeree: intubazione	3120
+Vie aeree: gestione	3140
+Vie aeree: aspirazione	3160
+Vie aeree artificiali: gestione	3180
+Misure preventive dell’aspirazione	3200
+Gestione dell’asma	3210
+Fisioterapia respiratoria	3230
+Stimolazione della tosse	3250
+Estubazione endotracheale	3270
+Gestione della ventilazione meccanica: invasiva	3300
+Gestione della ventilazione meccanica: non invasiva	3302
+Gestione della ventilazione meccanica: prevenzione della polmonite	3304
+Svezzamento dal ventilatore meccanico	3310
+Irrigazione nasale	3316
+Ossigenoterapia	3320
+Monitoraggio respiratorio	3350
+Promozione della respirazione	3390
+Assistenza alla persona: amputazione	3420
+Cura del sito di incisione	3440
+Terapia con sanguisughe	3460
+Monitoraggio degli arti inferiori	3480
+Cura delle lesioni da pressione	3520
+Prevenzione delle lesioni da pressione	3540
+Gestione del prurito	3550
+Cura della cute: sito donatore	3582
+Cura della cute: sito di innesto	3583
+Cura della cute: trattamenti topici	3584
+Sorveglianza della cute	3590
+Sutura	3620
+Cura della ferita	3660
+Cura della ferita: ustioni	3661
+Cura della ferita: drenaggio chiuso	3662
+Cura della ferita: difficoltà di guarigione	3664
+Irrigazione della ferita	3680
+Trattamento della febbre	3740
+Trattamento dell’ipertermia	3786
+Induzione dell’ipotermia terapeutica	3790
+Trattamento dell’ipotermia	3800
+Precauzioni nei confronti dell’ipertermia maligna	3840
+Regolazione della temperatura	3900
+Regolazione della temperatura intraoperatoria	3902
+Misure preventive dell’emorragia	4010
+Riduzione dell’emorragia	4020
+Riduzione dell’emorragia uterina: antepartum	4021
+Riduzione dell’emorragia gastrointestinale	4022
+Riduzione dell’emorragia nasale	4024
+Riduzione dell’emorragia uterina: postpartum	4026
+Riduzione dell’emorragia: ferita	4028
+Infusione di sangue o derivati	4030
+Prelievo: campione di sangue capillare	4035
+Assistenza cardiaca	4040
+Assistenza cardiaca: fase acuta	4044
+Assistenza cardiaca: riabilitazione	4046
+Gestione del rischio cardiaco	4050
+Gestione del dispositivo di accesso venoso centrale	4054
+Assistenza circolatoria: insufficienza arteriosa	4062
+Assistenza circolatoria: dispositivi meccanici	4064
+Assistenza circolatoria: insufficienza venosa	4066
+Misure preventive circolatorie	4070
+Gestione dell’aritmia	4090
+Gestione del pacemaker permanente	4091
+Gestione del pacemaker temporaneo	4092
+Gestione del defibrillatore esterno	4095
+Gestione del defibrillatore interno (permanente)	4096
+Assistenza alla persona: embolia periferica	4104
+Assistenza alla persona: embolia polmonare	4106
+Misure preventive: embolia	4110
+Gestione dei liquidi	4120
+Monitoraggio dei liquidi	4130
+Rianimazione con liquidi endovena	4140
+Regolazione emodinamica	4150
+Gestione dell’ipertensione	4162
+Gestione dell’ipervolemia	4170
+Gestione dell’ipotensione	4175
+Gestione dell’ipovolemia	4180
+Incannulazione venosa	4190
+Terapia endovenosa	4200
+Monitoraggio emodinamico invasivo	4210
+Assistenza alla persona: catetere venoso centrale (PIC)	4220
+Prelievo: campione di sangue arterioso	4232
+Prelievo di una unità di sangue	4234
+Prelievo: vaso incannulato	4235
+Prelievo: campione di sangue venoso	4238
+Mantenimento dell’accesso dialitico	4240
+Gestione dello shock	4250
+Gestione dello shock cardiaco	4254
+Gestione dello shock vasovagale	4256
+Gestione dello shock ipovolemico	4258
+Prevenzione dello shock	4260
+Infusione di cellule staminali	4266
+Gestione della terapia trombolitica	4270
+Attività terapeutiche	4310
+Pet-therapy	4320
+Arteterapia	4330
+Educazione all’assertività	4340
+Sostegno nella gestione del comportamento	4350
+Sostegno nella gestione del comportamento: iperattività/disattenzione	4352
+Sostegno nella gestione del comportamento:autolesionismo	4354
+Sostegno nella gestione del comportamento sessuale	4356
+Sostegno nella modifica del comportamento	4360
+Sostegno nella modifica del comportamento: abilità sociali	4362
+Elogio	4364
+Danzaterapia	4367
+Allenamento al controllo degli impulsi	4370
+Limiti comportamentali	4380
+Terapia per mezzo dell’ambiente	4390
+Musicoterapia	4400
+Condivisione di obiettivi	4410
+Contratto con l’assistito	4420
+Ludoterapia	4430
+Assistenza alla persona: modifica di sé	4470
+Facilitazione dell’autoresponsabilità	4480
+Assistenza nella cessazione dell’abitudine al fumo	4490
+Prevenzione dell’uso di sostanze	4500
+Trattamento dell’uso di sostanze	4510
+Trattamento dell’uso di sostanze: astinenza dall’alcol	4512
+Trattamento dell’uso di sostanze: astinenza dalla droga	4514
+Trattamento dell’uso di sostanze: overdose	4516
+Sostegno nel controllo della collera	4640
+Biblioterapia	4680
+Ristrutturazione cognitiva	4700
+Stimolazione cognitiva	4720
+Scrittura autobiografica	4740
+Allenamento della memoria	4760
+Orientamento alla realtà	4820
+Terapia della reminiscenza	4860
+Ascolto attivo	4920
+Miglioramento della comunicazione: deficit dell’udito	4974
+Miglioramento della comunicazione: disturbi del linguaggio	4976
+Miglioramento della comunicazione: deficit della vista	4978
+Costruzione di relazioni complesse	5000
+Mediazione in caso di conflitto	5020
+Miglioramento della socializzazione	5100
+Guida preventiva alle situazioni critiche	5210
+Valorizzazione dell’immagine corporea	5220
+Miglioramento del coping	5230
+Counseling	5240
+Counseling genetico	5242
+Counseling sull’allattamento	5244
+Counseling nutrizionale	5246
+Counseling preconcezionale	5247
+Counseling sessuale	5248
+Sostegno al processo decisionale	5250
+Assistenza alla persona morente	5260
+Sostegno emozionale	5270
+Facilitazione del perdono	5280
+Facilitazione dell’elaborazione del lutto	5290
+Facilitazione dell’elaborazione del lutto: morte perinatale	5294
+Elaborazione del senso di colpa	5300
+Sviluppo del potenziale di salute	5305
+Ispirare speranza	5310
+Humour	5320
+Miglioramento delle competenze di vita	5326
+Visite di ascolto	5328
+Gestione dell’umore	5330
+Presenza	5340
+Riduzione dello stress da trasferimento	5350
+Terapia ricreativa	5360
+Potenziamento del ruolo	5370
+Potenziamento della consapevolezza di sé	5390
+Miglioramento dell’autoefficacia	5395
+Miglioramento dell’autostima	5400
+Terapia del trauma: bambino	5410
+Sostegno spirituale	5420
+Prevenzione della dipendenza da una religione	5422
+Facilitazione della partecipazione ai riti religiosi	5424
+Facilitazione della crescita spirituale	5426
+Gruppo di sostegno	5430
+Potenziamento dei sistemi di sostegno	5440
+Terapia di gruppo	5450
+Contatto fisico	5460
+Tocco terapeutico	5465
+Comunicazione della verità	5470
+Chiarificazione dei valori	5480
+Educazione alla salute	5510
+Miglioramento dell’alfabetizzazione sulla salute	5515
+Facilitazione dell’apprendimento	5520
+Stimolare la disponibilità all’apprendimento	5540
+Insegnamento: adolescente	5562
+Insegnamento: famiglia che cresce un bambino	5566
+Insegnamento: bambino nel primo anno di vita	5568
+Informazioni sensoriali preparatorie	5580
+Insegnamento: processo patologico specifico	5602
+Insegnamento: cura dei piedi	5603
+Insegnamento: gruppo	5604
+Insegnamento: individuale	5606
+Insegnamento: periodo preoperatorio	5610
+Insegnamento: attività fisica prescritta	5612
+Insegnamento: dieta prescritta	5614
+Insegnamento: farmaci prescritti	5616
+Insegnamento: procedure/trattamenti	5618
+Insegnamento: abilità psicomotorie	5620
+Insegnamento: sesso sicuro	5622
+Insegnamento: sessualità	5624
+Insegnamento: uso del gabinetto	5634
+Insegnamento: nutrizione del bambino da 0 a 3 mesi di vita	5640
+Insegnamento: nutrizione del bambino da 4 a 6 mesi di vita	5641
+Insegnamento: nutrizione del bambino da 7 a 9 mesi di vita	5642
+Insegnamento: nutrizione del bambino da 10 a 12 mesi di vita	5643
+Insegnamento: sicurezza del bambino da 0 a 3 mesi di vita	5645
+Insegnamento: sicurezza del bambino da 4 a 6 mesi di vita	5646
+Insegnamento: sicurezza del bambino da 7 a 9 mesi di vita	5647
+Insegnamento: sicurezza del bambino da 10 a 12 mesi di vita	5648
+Insegnamento: stimolazione del bambino da 0 a 4 mesi di vita	5655
+Insegnamento: stimolazione del bambino da 5 a 8 mesi di vita	5656
+Insegnamento: stimolazione del bambino da 9 a 12 mesi di vita	5657
+Insegnamento: nutrizione del bambino da 13 a 18 mesi di vita	5660
+Insegnamento: nutrizione del bambino da 19 a 24 mesi di vita	5661
+Insegnamento: nutrizione del bambino da 25 a 36 mesi di vita	5662
+Insegnamento: sicurezza del bambino da 13 a 18 mesi di vita	5665
+Insegnamento: sicurezza del bambino da 19 a 24 mesi di vita	5666
+Insegnamento: sicurezza del bambino da 25 a 36 mesi di vita	5667
+Riduzione dell’ansia	5820
+Training autogeno	5840
+Biofeedback	5860
+Tecnica calmante	5880
+Distrazione	5900
+Ipnosi	5920
+Facilitazione dell’autoipnosi	5922
+Facilitazione della meditazione	5960
+Visualizzazione guidata	6000
+Terapia di rilassamento	6040
+Gestione dei codici di gravità	6140
+Intervento in caso di crisi	6160
+Gestione dell’emergenza	6200
+Primo soccorso	6240
+Promozione della donazione di organi	6260
+Trattamento del trauma da stupro	6300
+Rianimazione	6320
+Prevenzione del suicidio	6340
+Triage: luogo del disastro	6362
+Triage: centro emergenze	6364
+Triage telefonico	6366
+Sostegno nella protezione dagli abusi	6400
+Sostegno nella protezione dagli abusi: bambino	6402
+Sostegno nella protezione dagli abusi: persona convivente	6403
+Sostegno nella protezione dagli abusi: persona anziana	6404
+Sostegno nella protezione dagli abusi di tipo religioso	6408
+Gestione dell’allergia	6410
+Gestione dell’anafilassi	6412
+Restrizione degli spazi	6420
+Contenzione farmacologica	6430
+Gestione del delirio	6440
+Gestione delle illusioni	6450
+Gestione della demenza	6460
+Gestione della demenza: bagno	6462
+Gestione della demenza: wandering	6466
+Gestione del rischio di allontanamento non autorizzato	6470
+Gestione dell’ambiente	6480
+Gestione dell’ambiente: benessere	6482
+Gestione dell’ambiente: comunità	6484
+Gestione dell’ambiente: organizzazione della casa	6485
+Gestione dell’ambiente: sicurezza	6486
+Gestione dell’ambiente: prevenzione della violenza	6487
+Gestione dell’ambiente: sicurezza dei lavoratori	6489
+Prevenzione delle cadute	6490
+Misure antincendio	6500
+Gestione delle allucinazioni	6510
+Screening	6520
+Esame del seno	6522
+Gestione delle vaccinazioni	6530
+Controllo delle infezioni	6540
+Controllo delle infezioni: fase intraoperatoria	6545
+Protezione dalle infezioni	6550
+Precauzioni d’uso per il laser	6560
+Precauzioni d’uso per il lattice	6570
+Identificazione della persona assistita	6574
+Contenzione fisica	6580
+Gestione della radioterapia	6600
+Identificazione dei rischi	6610
+Identificazione dei rischi: famiglia che attende un bambino	6612
+Identificazione dei rischi genetici	6614
+Contenzione ambientale	6630
+Prevenzione dei traumi sportivi nei giovani	6648
+Sorveglianza	6650
+Sorveglianza: comunità	6652
+Sorveglianza: gravidanza post termine	6656
+Sorveglianza: teleassistenza	6658
+Terapia di validazione	6670
+Screening della vista	6675
+Monitoraggio dei parametri vitali	6680
+Amnioinfusione	6700
+Promozione dell’attaccamento genitore-bambino	6710
+Assistenza al parto	6720
+Assistenza al parto cesareo	6750
+Preparazione al parto	6760
+Monitoraggio elettronico fetale antepartum	6771
+Monitoraggio elettronico fetale intrapartum	6772
+Pianificazione familiare: contraccezione	6784
+Pianificazione familiare: infertilità	6786
+Pianificazione familiare: gravidanza non pianificata	6788
+Assistenza nella gravidanza ad alto rischio	6800
+Assistenza al bambino nel primo anno di vita	6820
+Assistenza al bambino: neonato	6824
+Assistenza al bambino: neonato pretermine	6826
+Assistenza intrapartum	6830
+Assistenza intrapartum: parto ad alto rischio	6834
+Marsupioterapia	6840
+Induzione del travaglio	6850
+Soppressione del travaglio	6860
+Soppressione della lattazione	6870
+Suzione non nutritiva	6900
+Fototerapia: neonato	6924
+Fototerapia: regolazione dell’umore e del sonno	6926
+Assistenza alla persona: postpartum e puerperio	6930
+Assistenza alla persona: interruzione di gravidanza	6950
+Assistenza alla persona: gravidanza	6960
+Sostegno durante le procedure: bambino	6965
+Rianimazione: feto	6972
+Rianimazione: neonato	6974
+Ecografia ostetrica	6982
+Sostegno al caregiver	7040
+Promozione dell’integrità della famiglia	7100
+Promozione dell’integrità della famiglia che attende un bambino	7104
+Promozione del coinvolgimento della famiglia	7110
+Mobilitazione della famiglia	7120
+Mantenimento dei processi familiari	7130
+Sostegno della famiglia	7140
+Terapia alla famiglia	7150
+Mantenimento della fertilità	7160
+Facilitazione della presenza dei familiari	7170
+Sostegno nel mantenimento della casa	7180
+Promozione della normalità	7200
+Sostituzione temporanea del caregiver	7260
+Sostegno del fratello/sorella	7280
+Accoglienza in una struttura sanitaria o sociale	7310
+Case management	7320
+Mediazione culturale	7330
+Pianificazione della dimissione	7370
+Sostegno in relazione alle risorse economiche	7380
+Guida al sistema sanitario	7400
+Assicurazione: assistenza per ottenere un rimborso	7410
+Facilitazione delle uscite	7440
+Tutela dei diritti della persona assistita	7460
+Supporto per il sostentamento	7500
+Facilitazione delle visite	7560
+Esami di laboratorio nel luogo di erogazione dell’assistenza	7610
+Miglioramento della collaborazione	7615
+Controllo delle sostanze sottoposte a vigilanza	7620
+Contenimento dei costi	7630
+Sviluppo del percorso clinico/critico	7640
+Delega	7650
+Controllo del carrello dell’emergenza	7660
+Assistenza nel corso di esami diagnostici	7680
+Interpretazione dei dati di laboratorio	7690
+Revisione tra pari	7700
+Collaborazione con il medico	7710
+Tutorato: personale dipendente	7722
+Tutorato: studenti	7726
+Valutazione dei presidi	7760
+Monitoraggio della qualità	7800
+Gestione dei campioni di laboratorio	7820
+Supervisione del personale	7830
+Gestione degli approvvigionamenti	7840
+Sviluppo del personale	7850
+Gestione della tecnologia	7880
+Gestione delle tecnologie per la riproduzione assistita	7886
+Trasferimento a un’altra struttura	7890
+Trasferimento all’interno della struttura	7892
+Consulenza	7910
+Documentazione	7920
+Documentazione: riunioni	7926
+Deposizione/testimonianza	7930
+Raccolta di dati forensi	7940
+Scambio di informazioni relative alla salute	7960
+Monitoraggio della politica sanitaria	7970
+Incident reporting – report su un evento avverso	7980
+Consulenza assistenziale multidisciplinare	8020
+Trascrizione delle prescrizioni	8060
+Prescrizione: test diagnostico	8080
+Prescrizione: trattamento non farmacologico	8086
+Riferimento ad altri provider o servizi	8100
+Raccolta dati ai fini di ricerca	8120
+Passaggio di consegne	8140
+Consulenza telefonica	8180
+Follow up telefonico	8190
+Alimentazione con tazza: neonato	8240
+Miglioramento dello sviluppo: adolescente	8272
+Miglioramento dello sviluppo: bambino	8274
+Miglioramento dello sviluppo: bambino nel primo anno di vita	8278
+Promozione del ruolo genitoriale	8300
+Promozione della resilienza	8340
+Sviluppo della salute della comunità	8500
+Patrocinio della salute della comunità	8510
+Gestione delle risorse economiche	8550
+Sviluppo di programmi	8700
+Marketing sociale	8750
+Addestramento contro il bioterrorismo	8810
+Gestione delle malattie trasmissibili	8820
+Addestramento della comunità alle calamità	8840
+Protezione dai rischi ambientali	8880
+Promozione della sicurezza nell’uso di veicoli	9050
