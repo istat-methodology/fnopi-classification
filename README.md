@@ -24,17 +24,16 @@ This work is part of the broader ISTAT efforts to support statistical analysis i
 # Installation
 Clone the repository:
 
+```bash
 git clone https://github.com/istat-methodology/fnopi-classification.git
 cd fnopi-classification
+```
 
 Install dependencies (if any):
 
+```bash
 pip install -r requirements.txt
-
-# Usage
-Instructions for running the classification scripts:
-
-python classify.py --input data/input_file.csv --output results/output_file.csv
+```
 
 Example notebooks and scripts demonstrate the workflow for data preprocessing, model training, and evaluation.
 
