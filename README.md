@@ -6,9 +6,7 @@ The FNOPI Classification project provides tools and scripts to:
 
 - Preprocess text data related to nursing and healthcare professions.
 
-- Apply models to assign codes to documents and to create clsuters from documents.
-
-This work is part of the broader ISTAT efforts to support statistical analysis in the healthcare sector, improving the understanding of nursing professions and their distribution across Italy.
+- Apply models to assign codes to documents and to create clusters from documents.
 
 ## Repository Structure
 Here’s an overview of the repository’s main components:
@@ -23,6 +21,18 @@ Includes CSV files with cleaned and preprocessed data, such as:
 - N_prestazioni_by_macroprestazione.csv - number of nursing interventions by text of macro catoegory of intervention
 - N_prestazioni_by_cod_valoremedio_liquidazione.csv - number of nursing interventions by code of average value of settlement
 - other intermediate data used for classification tasks
+
+### 📁 dataset
+Holds datasets of nursing-related contents and the preprocessed version of the same dataset, e.g., df_prestazioni_inf_clean.csv, to be used for elaborations
+
+### 📁 documents
+Contains reference documents, such as Elenco NIC.docx listing classification codes or descriptions.
+
+### 📁 html
+Stores generated HTML files (e.g., visualizations, reports).
+
+### 📁 img
+Includes images like topic word clouds and other visualizations.
 
 ## Installation
 Clone the repository:
