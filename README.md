@@ -1,7 +1,3 @@
-# fnopi-classification
-Classification of nursing notes (FNOPI) using NLP models, clustering, and semantic search
-
-
 # FNOPI Classification
 This repository contains the code and resources for the FNOPI (Federazione Nazionale degli Ordini delle Professioni Infermieristiche) Classification project, developed by the Methodology team at ISTAT. The goal of this project is to classify and categorize nursing-related documents using NLP models, clustering and semantic search.
 
