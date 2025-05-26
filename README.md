@@ -37,6 +37,7 @@ Includes images like topic word clouds and other visualizations.
 ## Installation
 Clone the repository:
 
+
 ```bash
 git clone https://github.com/istat-methodology/fnopi-classification.git
 cd fnopi-classification
@@ -48,7 +49,8 @@ Install dependencies (if any):
 pip install -r requirements.txt
 ```
 
-Example notebooks and scripts demonstrate the workflow for data preprocessing, model training, and evaluation.
+**** Alternatively, the content of the entire repository can be downloaded as a .zip file. In this case, just clic on "Code" and then select "Download ZIP" from the menu. *** 
+
 
 ## License
 This project is licensed under the MIT License (or specify another license, if applicable).
