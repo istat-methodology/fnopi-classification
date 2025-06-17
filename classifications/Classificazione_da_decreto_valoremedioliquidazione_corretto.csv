@@ -1,0 +1,193 @@
+	cod_valoremedio_liquidazione	ELENCO PRESTAZIONI
+0	001T	Assistenza diretta
+1	002T	Valutazione dei livelli di dipendenza del paziente a seconda di ogn necessità e bilancio delle risorse disponibili
+2	003T	Elaborazione e gestione del dossier di assistenza
+3	004T	Misurazione di uno o più dei seguenti parametri vitali e valori (temperatura polso arterioso, pressione arteriosa, atti respiratori, diuresi, peso corporeo misure antropometriche)
+4	005T	Misurazione e registrazione dei riflessi pupillari o di altri riflessi
+5	006T	Valutazione e registrazione dello stato di coscienza
+6	007T	Misurazione della pressione venosa centrale, sorveglianza di cateter venosi centrali e di altri accessi vascolari impiantati da un medico.
+7	008T	Registrazione di ECG
+8	009T	Collaborazione alla effettuazione stimolazione farmacologica di un ECG sotto sforzo o con stimolazione farmacologica
+9	010T	Registrazione di altro esame
+10	011T	Preparazione preoperatoria di un paziente
+11	012T	Collaborazione alta preparazione di un operatore in ambiente operatorio in luogo a ridotta carica batterica o in vista di una tecnica da condurre su èampo sterile: lavaggio delle mani, disinfezione, protezione se necessaria (camice, guanti, maschera)
+12	013T	Preparazione dì materiale e strumentario
+13	014T	Preparazione del paziente per una pratica assistenziale e/o un esame e successiva sorveglianza
+14	015T	Somministrazione dei medicinali prescritti per via enterale
+15	016T	Somministrazione dei medicinali prescritti per via parenterale
+16	017T	Somministrazione dei medicinali per via topica
+17	018T	Somministrazione dei medicinali prescritti o di sostanze non medicinali pe1 via inalatoria
+18	019T	Somministrazione dei medicinali per altra via
+19	020T	Perfusione - incanulazione di una vena superficiale delle membra o picranica con ago o catetere venoso periferico
+20	021T	Perfusione - gestione di una perfusione a termine o a permanenza
+21	022T	Perfusione in bolo
+22	023T	Bendaggio semplice
+23	024T	Bendaggio complesso
+24	025T	Collaborazione alla applicazione di un gesso o di un'altra immobilizzazione
+25	026T	Ablazione di un gesso o di altra immobilizzazione
+26	027T	Posa di un cerotto alla tubercolina o effettuazione di altri test connessi alla TBC
+27	028T	Manipolazione e controllo drenaggi
+28	029T	Azioni varie per assicurare comfort e benessere
+29	030T	Installazione e sorveglianza del neonato in fototerapia
+30	031T	Medicazione semplice
+31	032T	Medicazione complessa
+32	033T	Prelievo capillare e venoso del sangue o raccolta di liquidi biologie mediante esami estemporanei (es.: stick glicemici)
+33	034T	Esecuzione di vaccinazioni prescritte
+34	035T	Raccolta sterile e non sterile di escreti o secreti (ad eccezione di quelli descritti specificatamente dì seguito)
+35	036T	Instillazioni e irrigazioni di cavità, fistole e stomie
+36	037T	Esecuzione di prove allergiche
+37	038T	Collaborazione al medico/altro professionista sanitario in attività generica
+38	039T	Effettuazione collaborativa in strumentazione chirurgica
+39	040T	Collaborazione al medico/altro professionista sanitario;in settore specializzato: da concordare in base all'impegno richiesto
+40	041T	Controllo domiciliare di ùn paziente
+41	042T	Toilette e vestizione funebre
+42	043T	 ;Stimolazione della respirazione generica al di fuori di un programma di riabilitazione respiratoria.
+43	044T	Controllo dell'espettorato.
+44	045T	Mantenimento della pervietà delle vie aeree superiori, aspirazione delle secrezioni di un paziente anche se intubato o tracheotomizzato.
+45	046T	Manutenzione della cannula di un tracheotomizzato e/o cura del ttacheostoma
+46	047T	Ventilazione;manuale;strumentale;o;mediante maschera;e;controllo dell'adattamento di un paziente ad un ventilatore.
+47	048T	Predisposizione di un ventilatore e del materiale per l'intubazione oro/naso tracheale.
+48	049T	Pulizia e ripristino di un ventilatore e del relativo materiale d'uso.
+49	050T	Manipolazione di un drenaggio toracico.
+50	051T	Cura del naso e della bocca.
+51	052T	Addestramento all'uso di presidi che possono facilitare l'alimentazione.
+52	053T	Controllo e registrazione della dieta del paziente, del suo bilancio alimentare del suo peso e del suo stato di idratazione.
+53	054T	Educazione alla cura del seno prima e dopo l'allattamento.
+54	055T	Preparazione e somministrazione di alimenti speciali attraverso sonda gastrica K> mediante pompa enterale (anche nel bambino).
+55	056T	Sondaggio gastrico o duodenale a scopo nutrizionale, diagnostico o evacuativo.
+56	057T	Valutazione e registrazione del liquido aspirato da una sonda gastrica.
+57	058T	Irrigazione gastrica con varie soluzioni.
+58	059T	Controllo dell'igiene dentale.
+59	060T	Preparazione e somministrazione di un biberon.
+60	061T	Assistenza alla persona con vomito
+61	062T	Aiuto per assumere cibo e bevande anche con sistemi appropriati a persona lcon handicap.
+62	063T	Controllo ed assistenza delle stomie delle vie urinarie
+63	064T	Posizionamento di un catetere vescicale a permanenza
+64	065T	Assistenza ordinaria ad un paziente portatore di catetere vescicale
+65	066T	Instillazioni o irrigazioni vescicali o intrauretrali
+66	067T	Assistenza  corrente a  un paziente  sottoposto  a dialisi peritoneale  a prestazione; da definire in caso di progetto educativo/di addestramento
+67	068T	Gestione/assistenza ad attività emodialitiche: a prestazione. Da concordare se jper più prestazioni
+68	069T	Messa in sito assorbenti/pannoloni
+69	070T	Gestione dei presidi utilizzati per facilitare la funzione di eliminazione (es. lcontrollo, sostituzione e rimozione delle sacche di raccolta della diuresi).
+70	071T	Igiene della zona genitale nella donna e nell'uomo
+71	072T	Controllo e cure ordinarie della pelle e/o delle mucose attorno a drenaggi, cateteri e sonde
+72	073T	Partecipazione al piano di rieducazione vescicale
+73	074T	Raccolta di un campione di urine
+74	075T	Raccolta sterile di un campione di urine nell'uomo e nella donna mediante cateterismo estemporaneo
+75	076T	Insegnamento al paziente e/o alla famiglia: - su norme di idratazione/alimentazione funzionali ad una buona eliminazione; per la valutazione della qualità e dell'aspetto <1elle feci;
+76	per 	a protezione efficace della cute perineale in caso di diarrea o incontinenza; su norme di igiene specifiche della regione perineale nella donna e nell'uomo
+77	(adu	ti e bambini).
+78	077T	Educazione del paziente e/o della sua famiglia in caso di stomia intestinale
+79	078T	Insegnamento al paziente e/o alla sua famiglia all'utilizzo di mezzi e delle misure per evitare contagio in caso di malattia trasmissibile per via orofecale
+80	079T	Controllo ed assistenza corrente a stomie delle vie intestinali
+81	080T	Preparazione ed effettuazione di clistere
+82	081T	Preparazione ed effettuazione di rettoclisi
+83	082T	Disinfezione ambientale trasmissione oro-fecale;in;caso;di pericolo;di diffusione;di malattie a
+84	083T	Assistenza al paziente nell'eliminazione intestinale
+85	084T	Messa in opera e cambio dei mezzi di protezione del letto e degli indumenti, k:iella pelle e delle mucose in caso di incontinenza o diarrea.
+86	085T	Estrazione fecalomi
+87	086T	Cure igieniche appropriate ad un'eccessiva traspirazione
+88	087T	rrrasporto assistito di un paziente all'interno di una struttura sanitaria.
+89	088T	Trasporto assistito di un paziente con automezzo proprio o di terzi.
+90	089T	Trasporto assistito di un paziente con aeromobile o elicottero.
+91	090T	revenzione non medicinale delle trombosi
+92	091T	Aiuto all'alzata e posizionamento corretto prevenendo ed evitando posizion· wiziate, senza ricorso alle tecniche di rieducazione: - trasferimento e posizionamento del paziente dal letto alla poltrona -  trasferimento del paziente dalla poltrona al letto
+93	092T	Aiuto nella deambulazione senza ricorso alle tecniche di rieducazione
+94	093T	Pianificazione ed esecuzione di esercizi fisici semplici.
+95	094T	Valutazione della durata e della qualità del riposo e del sonno diurno e notturno
+96	095T	Organizzazione di un programma di attività che tenga conto dei ritmi sonno/veglia del paziente e delle condizioni dell'ambiente.
+97	096T	Controllo della assunzione di liquidi in rapporto ad una eventuale nicturia
+98	097T	Preparazione del paziente e dell'ambiente al sonno e al riposo (anche nel bambino)
+99	098T	Educazione del familiare e/o del paziente a vestirsi e svestirsi, anche con l'uso di ausili in rapporto a particolari condizioni (patologie invalidanti, protesi);
+100	099T	"Relazione di aiuto terapeutico in rapporto ""all'immagine di se"" anche rispettc all'uso di protesi;"
+101	100T	Controllo ed evoluzione dei segni collegati all'aumento o alla diminuzione della temperatura
+102	101T	IControllo dei neonati posti in incubatrice o termoculla
+103	102T	Sorveglianza di una ipotermia indotta a scopo terapeutico.
+104	103T	Controllo ed intervento sull'ambiente, su altri presidi e sul paziente per regolarne la temperatura
+105	104T	!Altre tecniche fisiche di correzione dell'ipotermia b dell'ipertermia
+106	105T	Bagni terapeutici e medicati
+107	106T	Frizioni, impacchi, massaggi
+108	107T	Bagno a letto completo
+109	108T	Bagno nella vasca/doccia in tutte le sue fasi
+110	109T	Toilettè di una parte del corpo
+111	110T	Cure igieniche di apparecchi correttivi e protesi
+112	111T	Individuazione delle parassitosi esterne e assistenza alle persone colpite.
+113	112T	Controllo delle lesioni cutanee dovute a fattori chimici e fisici: irradiamento, emici, ecc.
+114	113T	Prevenzione delle lesioni da pressione
+115	114T	Assistenza e sorveglianza di ulcere cutanee croniche
+116	115T	Mappatura dei pericoli presenti in un ambiente e relative proposte di modifiche
+117	116T	Predisposizione di presidi atti a ridurre i pericoli
+118	117T	Controllo della sensibilità del malato al caldo, al freddo e al dolore
+119	118T	Assistenza e sorveglianza di uno o più pazienti posti in ambiente a bassa carica microbica
+120	119T	Controlli di igiene ambientale presso collettività e case
+121	120T	Attività di disinfezione e/o disinfezione di ambienti di vita collettiva e familiare
+122	121T	Attuazione e controllo dei metodi di immobilizzazione in sicurezza di persone che presentano alterazioni cognitivo/comportamentali
+123	122R	Accoglienza del paziente: presentazione di luoghi e persone, spiegazione dell'organizzazione del servizio. Intervista preliminare. Raccolta dati ed elaborazione insieme alla famiglia e/o al paziente di un programma globale di assistenza Infermieristica. Informazione a proposito degli interventi di assistenza e/o eventuali esami allo scopo fra l'altro di indurre Il paziente e/o la sua famiglia alla partecipazione.;Educazione del paziente perché si faccia carico della propria salute. Relazione di aiuto terapeutico. Preparazione di una relazione descrittiva di un piano di assistenza;
+124	123R	Contatti e pratiche con Uffici/Enti, istituzioni varie.;
+125	124R	Supervìsfone e controllo del personale sottoposto;
+126	125R	Relazione inerente le cure infermieristiche attuate al fine di garantire continuità assistenziale in caso di ospedalizzazione/presa in carico da parte di una struttura socio sanitaria o dalla famiglia.;
+127	126T	Azioni che favoriscano il mantenimento l'inserimento, o il reinserimento di una persona nel suo abituale ambiente di vita o in un nuovo ambiente, tenendo conto delle risorse disponibili.;
+128	127T	Raccolta, schedatura e compilazione di dati a fini statistici, anche con supporto informatico. Tenuta e compilazione di registri.
+129	128T	Inchieste epidemiologiche
+130	129T	Opera di tutoraggio ed istruzione nei confronti di operatori e di studenti
+131	130T	Analisi dell'ambiente domestico e proposte di cambiamenti tesi a garantire comfort e sicurezza.
+132	131R	Accompagnamento ed assistenza spirituale e psicologica della persona in fin di vita e della sua famiglia (anche dopo il decesso).
+133	132A	Educazione del paziente ad una corretta respirazione.
+134	133R	Educazione e stimolazione del paziente a tossire e ad espettorare.
+135	134R	Educazione;del paziente;a vivere;adattandosi;al proprio;handicap respiratorio.
+136	135R	Informazioni sulla funzione respiratoria a paziente e/o famiglia.
+137	136R	Educazione del paziente alla raccolta dell'espettorato.
+138	137R	Rieducazione foniatrica semplice del tracheotomizzato
+139	138R	Attività educativa al paziente tracheotomizzato o con altra limitazione respiratoria duratura (anche alla sua famiglia).
+140	139R	Partecipazione ad azioni individuali o collettive di prevenzione ed educazione contro il tabagismo e l'inquinamento.
+141	140A	Educazione del paziente e/o della famiglia relativa all'igiene alimentare (igiene degli alimenti, loro conservazione, attività che favoriscono l'alimentazione). Educazione  del paziente  e/o  della  famiglia  all'adattamento della sua alimentazione alla propria condizione di salute e al rispetto di un eventuale regime dietetico prescritto. Educazione del paziente e della famiglia all'igiene kientale. Educazione del paziente e/o della famiglia all'uso di ausili nella alimentazione. Relazione di;aiuto terapeutico relativa ai problemi psicologici del comportamento alimentare
+142	141R	Formazione del paziente e/o della famiglia alla valutazione dello stato di idratazione e alla effettuazione di un bilancio idrico.
+143	142R	Individuazione delle possibilità di alimentazione di un paziente sulla base delle sue credenze religiose.
+144	143T	Pianificazione assieme al paziente e/o alla sua famiglia di un programma globale di assistenza infermieristica relativa alla alimentazione.
+145	144T	Sorveglianza nutrizionali.;del;regime;alimentare;del neonato;che;presenta;turbe
+146	145T	Controllo dell'igiene e dell'equilibrio alimentare del bambino (lattante e divezzo) e dell'adulto.
+147	146R	Informazione del paziente e/o della famiglia relativa a: funzioni urinarie;;acquisizione di un regolare ritmo di minzione; valutazione e registrazione della diuresi; igiene personale;;regimi alimentari particolari.
+148	147T	Educazione del paziente e/o famiglia all'uso di presidi di supporto.
+149	148T	Insegnamento al paziente e/o famiglia del cateterismo a intermittenza.
+150	149A	Educazione del paziente e/o famiglia in caso di stomia/e urinaria/e.
+151	150R	Addestramento del paziente e/o famiglia in caso di dialisi renale domiciliare
+152	151R	Addestramento del paziente e/o famiglia in caso di dialisi peritoneale domiciliare.
+153	152R	Riabilitazione del paziente che presenta turbe psicologiche;del comportamento legate alla eliminazione urinaria.
+154	153R	Elaborazione di un piano di rieducazione vescicale.
+155	154R	Insegnamento al paziente e/o alla famiglia di: norme di idratazione/alimentazione funzionali ad una buona eliminazione; valutazione della qualità e dell'aspetto delle feci; protezione efficace della cute perineale in caso di diarrea o incontinenza; norme di igiene specifiche della regione perineale nella femmina e nel;maschio (bambini e adulti).;
+156	155R	Insegnamento al paziente e/o alla sua famiglia dei mezzi e délle misure che permettono di evitare la propagazione di un contagio per malattia a trasmissione oro-fecale.;
+157	156A	Educazione del paziente e/o della sua famiglia in caso di stomia intestinale.;
+158	157R	Riadattamento del paziente che presenta;turbe psicologiche del comportamento legate alla evacuazione intestinale.;
+159	158R	Insegnamento al paziente sull'utilizzo dei mezzi che riducono il disagio dovute alla sudorazione.
+160	159R	Informazione sul ciclo mestruale, sulla funzione riproduttiva, sulla necessità di controllo medico regolare.;
+161	160R	Insegnamento al paziente e/o alla sua famiglia delle posizioni e degli esercizi di addestramento alla mobilità e dell'uso di ausili alla deambulazione. Educazione ed altre azioni informative al paziente e/o alla famiglia riguardo a norme di igiene e di comportamento da tenere in rapporto a patologie che alterino le possibilità di movimento e di mantenere una posizione eretta. Relazione di aiuto terapeutico in caso di non coordinazione, di instabilità motoria, di carenze nel controllo gestuale.
+162	161R	Aiuto alla distensione e al rilassamento. Azione educative nei confronti del paziente e/o della sua famiglia riguardo ai diversi fattori favorenti un buon riposo o sonno. Azioni educative nei confronti del paziente e/o della sua famiglia riguardo all'uso di farmaci ipnoinducenti. Azioni educative nei confronti della famiglia sulle condizioni di sicurezza da realizzare per consentire il sonno ad un congiunto. Relazione di aiuto terapeutico per indurre il sonno e/o per alleviare l'insonnia.
+163	162A	lnformazìoni del paziente e/o della sua famiglia per quanto concerne la scelta deg1i indumenti appropriati, la loro cura, ecc.. Educazione del famigliare e/o del paziente a vestirsi e svestirsi, anche con l'uso di ausili in rapporto a particolari condizioni (patologie invalidanti, protesi). Relazione di aiuto terapeutico in rapporto «all'immagine di se» del paziente anche rispetto all'uso di protesi. Scelta o aiuto nella scelta con il paziente e/o i suoi familiari di un abbigliamento adeguato secondo le sue attività, la sua cultura, le sue idee, il suo stato sociale.
+164	163R	Informazioni sulle diverse modalità di rilevazione della temperatura corporea.;
+165	164R	Informazioni al paziente e/o ai suoi familiari sulle conseguenze di un rialzo o di un abbassamento della temperatura corporea (anche nel bambino).
+166	165R	Educazione del paziente e/o dei suoi familiari sull'uso degli indumenti e della gestione dell'ambiente per garantire una temperatura corporea adeguata.
+167	166R	Insegnamento al paziente e/o ai suoi familiari: dei mezzi per scaldare/raffreddare il corpo; delle modalità di gestione di una terapia antipiretica; delle norme di alimentazione e Jdratazione in rapporto a particolari condizioni climatiche o soggettive; degli effetti dell'alcool sulla termoregolazione.
+168	167R	Informazioni ed educazione del paziente e/o della sua famiglia sulla importanza di una corretta igiene del corpo e sulle relative tecniche da porre in essere per mantenerla. Informazione e istruzione del paziente e/o della sua famiglia sull'uso di ausili e kii altri mezzi che favoriscono l'igiene personale.
+169	168R	Insegnamento al paziente e/o alla sua famiglia: della prevenzione degli incidenti e delle malattie in rapporto all'età; della cura dell'ambiente domestico e della riduzione dei pericoli in esse presenti; degli stili di vita pericolosi per la salute; delle conseguenze dovute all'uso di sostanze tossiche delle tecniche di aiuto a superare e/o prevenire l'ansia.
+170	169R	Relazione di aiuto e sostegno psicologico.
+171	170R	Osservazione e sorveglianza delle turbe del comportamento.
+172	171R	Colloquio di accoglienza e di orientamento.
+173	172R	Organizzazione e animazione di attività a scopo socioterapeutico.
+174	173A	Altre attività di assistenza infermieristica e mediazione corporea: cure estetiche, maternage, visualizzazione, ecc.
+175	174R	Conduzione di gruppi di coetanei, di coetnici, di gruppi della medesima religione su argomenti sanitari.
+176	175R	Conduzione. di un colloquio e di una relazione di aiuto con il supporto di un interprete (escluso l'onorario per l'interprete).
+177	176T	Identificazione dei fattori ambientali che favoriscono/ostacolano la comunicazione. Osservazione e valutazione degli stimoli sensoriali relativi alla comunicazione.
+178	177T	Partecipazione nell'ambito di una équipe multidisciplinare alle tecniche di mediazione a scopo psicoterapeutico.
+179	178R	Informazioni al paziente e/o ai suoi familiari, per quanto attiene le specifiche esigenze spirituali, sulle possibilità offerte;dall'ambiente e sulle condizioni favorenti/impedenti correlate alla malattia. Informazioni al paziente e/o alla sua famiglia sulle pratiche religiose in contrasto con le necessità sanitarie. Altre attività di aiuto all'esercizio delle azioni connesse al rispetto del credo religioso del paziente e/o della sua famiglia.
+180	179R	Aiuto a scoprire le risorse dell'ambiente in cui si vive, allo scopo di realizzare se stessi. Aiuto a scoprire e sviluppare le risorse personali. Mantenimento o riapprendimento dei principi di base della vita di collettività. Ricerca e sviluppo di attività in rapporto con le possibilità fisiche, intellettuali, affettive di un soggetto, anche in collaborazione con i congiunti.;
+181	180T	Analisi;degli interessi;del;paziente. Valutazione dell'appropriatezza delle;iniziative previste rispetto agli interessi del paziente e del grado dì efficacia dei risultati conseguiti.;
+182	181R	Inventario dei mezzi ricreativi offerti dall'ambiente. Informazione rivolta al paziente ed alla sua famiglia relativa alle attività ricreative appropriate alla età, alla cultura, allo stato di salute, all'handicap e pianificazione delle medesime.
+183	182R	Accompagnamento e/o partecipazione del personale curante alle attività ricreative del paziente o di un gruppo di malati e collaborazione con i lorc congiunti.
+184	183T	Analisi dei gusti del paziente.
+185	184T	Valutazione della realizzazione delle iniziative ricreative proposte in rapporto al benessere dei pazienti.
+186	185T	Aiuto nella ricerca di posizioni confortevoli che consentano attività di svago, anche con l'uso di ausili.
+187	186R	Identificazione dei mezzi esistenti e delle persone che possono favorire 'apprendimento e la motivazione del paziente e/o della sua famiglia sul progetto educativo. Applicazione al paziente dei principi pedagogici ad ogni fase di apprendimento rispettando un ritmo adeguato al suo stato di salute e/o conoscenza
+188	187T	Analisi delle motivazioni e degli interessi del paziente. 
+189	188T	Valutazione del livello di conoscenze, delle capacità di memorizzazione, dell'apprendimento, del linguaggio utilizzato da parte del paziente e/o da chi gli sta intorno
+190	189T	Valutazione degli stimoli sensoriali necessari ad accompagnare le azioni di apprendimento.
+191	190T	Valutazione del grado di apprendimento ed eventuali modifiche del progetto assieme agli altri operatori sanitari.
