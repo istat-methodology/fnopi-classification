@@ -1,0 +1,63 @@
+############################################# Mapping macro-categorie interventi sicurezza
+
+
+
+#### valutazione / monitoraggio clinico
+assessment                              -> valutazione/monitoraggio clinico
+assessment, valutazione dolore          -> valutazione/monitoraggio clinico
+valutazione del dolore: monitoraggio cvc -> valutazione/monitoraggio clinico
+
+
+#### drenaggi
+monitoraggio drenaggio                  -> drenaggi
+
+
+#### diagnostica lab/POC (collassata)
+esami ematici                           -> diagnostica lab
+rilevata glicemia                       -> diagnostica lab
+emogasanalisi (ega)                     -> diagnostica lab
+urinocoltura                            -> diagnostica lab
+
+
+#### emocolture (tenuta a parte)
+emocolture                              -> emocolture
+
+
+
+#### tamponi (solo covid / altro)
+tampone covid                           -> tamponi – covid
+tampone antigenico                      -> tamponi – covid
+tampone                                 -> tamponi – altro
+tampone faringeo                        -> tamponi – altro
+
+
+#### accessi venosi (cvc/cvp)
+medicazione cvc                         -> accessi venosi (cvc/cvp)
+gestione cvc                            -> accessi venosi (cvc/cvp)
+rimosso cvc                             -> accessi venosi (cvc/cvp)
+posizionato/riposizionato cvp           -> accessi venosi (cvc/cvp)
+rimosso cvp                             -> accessi venosi (cvc/cvp)
+sostituito cvp                          -> accessi venosi (cvc/cvp)
+
+
+#### accessi arteriosi
+catetere arterioso radiale (gest/med)   -> accessi arteriosi
+rimosso cvc radiale                     -> accessi arteriosi
+
+
+#### cura ferite / medicazioni
+medicazione compressiva                 -> cura ferite/medicazioni
+medicazione lesione sovraombelicale     -> cura ferite/medicazioni
+
+
+#### device / terapie varie
+gestione elastomero                     -> device/terapie varie
+posizionato mad                         -> device/terapie varie
+
+
+#### strumentazione / monitor
+posizionamento monitor                  -> strumentazione/monitor
+
+
+#### eventi non clinici / sicurezza
+presenza della figlia in camera, senza permesso e senza requisiti di sicurezza -> eventi non clinici/sicurezza
